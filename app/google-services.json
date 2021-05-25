@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "127910267857",
+    "firebase_url": "https://containmentapp-default-rtdb.firebaseio.com",
+    "project_id": "containmentapp",
+    "storage_bucket": "containmentapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:127910267857:android:b022a531abe2344ef32ef0",
+        "android_client_info": {
+          "package_name": "com.srinivas.conapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "127910267857-bigejmln3t7amtc2a5p90h7cbhimtlm7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiLJl19Fu2-Ro4CaewrA06L18eIIAU8l0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "127910267857-bigejmln3t7amtc2a5p90h7cbhimtlm7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
