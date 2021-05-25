@@ -22,7 +22,7 @@ public class Geocode {
 	
 	@GetMapping("/location_send") 
 	public String Geo(Location loc,@RequestParam("address") String address) throws InterruptedException, ExecutionException {
-		JOpenCageGeocoder jOpenCageGeocoder = new JOpenCageGeocoder("2e08f7ade19a465882a1c9c653162002");
+		JOpenCageGeocoder jOpenCageGeocoder = new JOpenCageGeocoder("API-KEY");
 		JOpenCageForwardRequest request = new JOpenCageForwardRequest(address);
 		
 		JOpenCageResponse response = jOpenCageGeocoder.forward(request);
