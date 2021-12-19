@@ -1,7 +1,7 @@
-# Containment_app
+# Containment app
 
 
-Containment Zone alerting application
+# Containment Zone alerting application
 
 
 This Application was developed for Detection of  Covid-containment zones and Alerting Users in case they enter a zone.
@@ -9,15 +9,15 @@ This Application was  developed by using SpringBoot(Sts4)   And Android App Stud
 
 
 
-Branches-
+# Branches-
 Main branch consists code for the Spring Boot Application.
 Master branch consists code for the  android app.
 
-Live Demo -
+# Live Demo -
 The working Video is in The Main brach
 
 
-Working
+# Working
 
 The Admin logins the webpage using his credentials.
 The Admin  enters  address(Containment Zones) in the  site .
