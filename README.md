@@ -9,11 +9,11 @@ This Application was  developed by using SpringBoot(Sts4)   And Android App Stud
 
 
 
-# Branches-
+# Branches
 Main branch consists code for the Spring Boot Application.
 Master branch consists code for the  android app.
 
-# Live Demo -
+# Live Demo 
 The working Video is in The Main brach
 
 
